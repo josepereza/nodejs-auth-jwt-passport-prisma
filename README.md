@@ -5,3 +5,5 @@ link a tutorial con varias estrategias  tan solo cambiando la rama
 * https://github.com/AkileshRao/passport-strategies.git
 (para ver distintas estrategias hay que cambiar de rama)
 ![image](pantalla0.png)
+![image](pantalla1.png)
+![image](pantalla2.png)
