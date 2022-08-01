@@ -7,3 +7,11 @@ link a tutorial con varias estrategias  tan solo cambiando la rama
 ![image](pantalla0.png)
 ![image](pantalla1.png)
 ![image](pantalla2.png)
+
+
+## Tutorial Autenticar Aplicaciones Node.js con Passport
+
+* https://code.tutsplus.com/es/tutorials/authenticating-nodejs-applications-with-passport--cms-21619
+## Encriptación de password en NodeJS y MongoDB: bcrypt
+
+* https://www.izertis.com/es/-/blog/encriptacion-de-password-en-nodejs-y-mongodb-bcrypt
